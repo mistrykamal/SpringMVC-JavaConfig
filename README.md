@@ -1,2 +1,2 @@
 # SpringMVC-JavaConfig
-java based configurations
+java-configurations, spring-webmvc, jsp
